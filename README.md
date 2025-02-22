@@ -71,4 +71,17 @@ You can explore dynamic visuals in Power BI that provide insights into sales per
 
 ---
 
+## 🌐 Socials:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
+
+---
+
+## 💻 Tech Stack:  
+![Power BI](https://img.shields.io/badge/Power%20BI-3D8DB4?style=for-the-badge&logo=powerbi&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/Snowflake-00A9E0?style=for-the-badge&logo=snowflake&logoColor=white)
+
+
 [![](https://visitcount.itsvg.in/api?id=YourGitHubUsername&icon=0&color=0)](https://visitcount.itsvg.in)
